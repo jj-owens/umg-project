@@ -1,0 +1,19 @@
+{
+  "name": "umg-project",
+  "version": "1.0.0",
+  "description": "The Ultimate Moviegoers Guide!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj-owens/umg-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jj-owens/umg-project/issues"
+  },
+  "homepage": "https://github.com/jj-owens/umg-project#readme"
+}
